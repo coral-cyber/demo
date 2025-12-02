@@ -1,0 +1,203 @@
+{
+  "count": 22,
+  "soaps": [
+    {
+      "id": 1,
+      "name": "Jasmine",
+      "image": "src/Assets/jasmine.jpg",
+      "price": 120,
+      "rating": 4.8,
+      "category": "Floral",
+      "description": "Soothing jasmine fragrance that softens and nourishes your skin."
+    },
+    {
+      "id": 2,
+      "name": "Amla",
+      "image": "src/Assets/amla.jpg",
+      "price": 110,
+      "rating": 4.7,
+      "category": "Herbal",
+      "description": "Rich in vitamin C, revitalizes and brightens your skin naturally."
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "image": "src/Assets/orange.jpg",
+      "price": 115,
+      "rating": 4.6,
+      "category": "Citrus",
+      "description": "Refreshing citrus soap that energizes and rejuvenates your skin."
+    },
+    {
+      "id": 4,
+      "name": "Coffee",
+      "image": "src/Assets/coffee.jpg",
+      "price": 130,
+      "rating": 4.8,
+      "category": "Exfoliating",
+      "description": "Exfoliating coffee soap that removes dead skin cells and awakens senses."
+    },
+    {
+      "id": 5,
+      "name": "Clay",
+      "image": "src/Assets/clay.jpg",
+      "price": 125,
+      "rating": 4.7,
+      "category": "Detox",
+      "description": "Purifying clay soap that detoxifies and cleanses your skin deeply."
+    },
+    {
+      "id": 6,
+      "name": "Turmeric",
+      "image": "src/Assets/turmeric.jpg",
+      "price": 140,
+      "rating": 4.8,
+      "category": "Herbal",
+      "description": "Brightening turmeric soap that improves skin tone and reduces blemishes."
+    },
+    {
+      "id": 7,
+      "name": "Coconut",
+      "image": "src/Assets/coconut.jpg",
+      "price": 130,
+      "rating": 4.7,
+      "category": "Moisturizing",
+      "description": "Hydrating coconut soap for soft, smooth, and glowing skin."
+    },
+    {
+      "id": 8,
+      "name": "Butter",
+      "image": "src/Assets/butter.jpg",
+      "price": 135,
+      "rating": 4.6,
+      "category": "Moisturizing",
+      "description": "Rich buttery soap that deeply nourishes and softens dry skin."
+    },
+    {
+      "id": 9,
+      "name": "Cinnamon",
+      "image": "src/Assets/cinnamon.jpg",
+      "price": 125,
+      "rating": 4.7,
+      "category": "Spicy",
+      "description": "Warm cinnamon soap that refreshes and revitalizes your senses."
+    },
+    {
+      "id": 10,
+      "name": "Lavender",
+      "image": "src/Assets/lavender.jpg",
+      "price": 120,
+      "rating": 4.8,
+      "category": "Floral",
+      "description": "Calming lavender soap that relaxes and soothes your skin and mind."
+    },
+    {
+      "id": 11,
+      "name": "Aloe",
+      "image": "src/Assets/aloe.jpg",
+      "price": 110,
+      "rating": 4.7,
+      "category": "Cooling",
+      "description": "Soothing aloe soap that cools irritation and hydrates skin."
+    },
+    {
+      "id": 12,
+      "name": "Neem",
+      "image": "src/Assets/neem.jpg",
+      "price": 115,
+      "rating": 4.6,
+      "category": "Antibacterial",
+      "description": "Antibacterial neem soap that keeps skin healthy and clear."
+    },
+    {
+      "id": 13,
+      "name": "Charcoal",
+      "image": "src/Assets/charcoal.jpg",
+      "price": 130,
+      "rating": 4.8,
+      "category": "Detox",
+      "description": "Deep cleansing charcoal soap that removes impurities and excess oil."
+    },
+    {
+      "id": 14,
+      "name": "Lemon",
+      "image": "src/Assets/citrus.jpg",
+      "price": 110,
+      "rating": 4.6,
+      "category": "Citrus",
+      "description": "Zesty lemon soap that brightens skin and gives a fresh feeling."
+    },
+    {
+      "id": 15,
+      "name": "Sandalwood",
+      "image": "src/Assets/sandalwood.jpg",
+      "price": 140,
+      "rating": 4.7,
+      "category": "Earthy",
+      "description": "Earthy sandalwood soap that nourishes and tones your skin naturally."
+    },
+    {
+      "id": 16,
+      "name": "Milk",
+      "image": "src/Assets/milk.jpg",
+      "price": 120,
+      "rating": 4.8,
+      "category": "Moisturizing",
+      "description": "Creamy milk soap that softens and hydrates dry skin."
+    },
+    {
+      "id": 17,
+      "name": "Honey",
+      "image": "src/Assets/honey.jpg",
+      "price": 125,
+      "rating": 4.7,
+      "category": "Moisturizing",
+      "description": "Sweet honey soap that nourishes and keeps skin glowing."
+    },
+    {
+      "id": 18,
+      "name": "Peppermint",
+      "image": "src/Assets/peppermint.jpg",
+      "price": 115,
+      "rating": 4.6,
+      "category": "Cooling",
+      "description": "Refreshing peppermint soap that invigorates and cools your skin."
+    },
+    {
+      "id": 19,
+      "name": "Mint",
+      "image": "src/Assets/mint.jpg",
+      "price": 110,
+      "rating": 4.7,
+      "category": "Fresh",
+      "description": "Fresh mint soap that refreshes and revitalizes your senses."
+    },
+    {
+      "id": 20,
+      "name": "Oat",
+      "image": "src/Assets/oat.jpg",
+      "price": 120,
+      "rating": 4.8,
+      "category": "Sensitive",
+      "description": "Gentle oat soap that soothes and protects sensitive skin."
+    },
+    {
+      "id": 21,
+      "name": "Rose",
+      "image": "src/Assets/rose.jpg",
+      "price": 125,
+      "rating": 4.7,
+      "category": "Floral",
+      "description": "Delicate rose soap that softens and leaves a fragrant glow."
+    },
+    {
+      "id": 22,
+      "name": "TeaTree",
+      "image": "src/Assets/teatree.jpg",
+      "price": 130,
+      "rating": 4.8,
+      "category": "Antibacterial",
+      "description": "Healing tea tree soap that purifies and refreshes your skin."
+    }
+  ]
+}
