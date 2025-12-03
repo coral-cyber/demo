@@ -5,6 +5,7 @@ import Hero from "./components/Hero/Hero.jsx";
 import Carousel from "./components/Carousel/Corousel.jsx";
 import SoapCards from "./components/SoapCards/SoapCards";
 import soapsData from "./data/soaps.json";
+import Footer from "./components/Footer/Footer.jsx";
 function App() {
   const [soaps, setSoaps] = useState([]);
   useEffect(() => {
@@ -22,6 +23,7 @@ function App() {
 
         <SoapCards soaps={soaps} />
       </div>
+      <Footer />
     </div>
   );
 }

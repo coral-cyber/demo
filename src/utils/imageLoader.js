@@ -1,9 +1,3 @@
-/*export const images = import.meta.glob("/src/Assets/*", { eager: true });
-
-export function getImage(path) {
-  return images[`/${path}`]?.default || "";
-}
-*/
 // loads all images from /src/Assets at build-time
 export const images = import.meta.glob("/src/Assets/*", { eager: true });
 
